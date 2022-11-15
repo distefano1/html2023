@@ -1,0 +1,23 @@
+#p1{
+    color: red;
+}
+p{
+    color: green;
+}
+.pblue{
+    color: blue;
+}
+.pfont{
+    font-size: 35px;
+    color: coral;
+}
+
+
+/* */
+div p{
+    color: blueviolet;
+}
+
+.iddiv .pdiv{
+    color: aquamarine;
+}

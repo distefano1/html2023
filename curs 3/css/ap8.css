@@ -1,0 +1,15 @@
+p{
+    width:100%;
+    max-width: 350px;
+    height: auto;
+
+    margin: 17px;
+    border: 12px purple solid;
+    padding: 10px 5px;
+}
+div{
+    float: right;
+    text-align: left;
+    background-color: blueviolet;
+    color: black;
+}
