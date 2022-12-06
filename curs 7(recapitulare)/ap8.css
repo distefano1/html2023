@@ -1,0 +1,19 @@
+section{
+    width: 100%;
+    max-width: 1000px;
+    height: auto;
+
+    margin: 30px;
+    border: 5px green solid;
+    padding: 5px;
+}
+.div1{
+    float: left;
+    text-align: left;
+    color:black ;
+}
+.div2{
+    float: right;
+    text-align: left;
+    color: black;
+}

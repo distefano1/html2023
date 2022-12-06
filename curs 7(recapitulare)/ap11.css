@@ -1,0 +1,26 @@
+html{
+    background-color: aquamarine;
+}
+form{
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+
+    margin: 100%;
+    border: 1px aqua solid;
+    padding: 40px 420px;
+
+    text-align: left;
+    background-color:aqua;
+    color: black;
+    
+}
+h1{
+    text-align: center;
+}
+input:valid, textarea:valid {
+    border-color: green;
+}
+input:invalid, textarea:invalid{
+    border-color: red;
+}
